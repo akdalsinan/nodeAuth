@@ -1,0 +1,14 @@
+# Node modülleri
+node_modules/
+
+# Ortam değişkenleri
+.env
+
+# IDE özel dosyaları
+.vscode/
+.idea/
+
+# Log dosyaları
+*.log
+
+ 
