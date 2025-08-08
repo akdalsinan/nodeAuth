@@ -1,0 +1,1 @@
+Kullanıcı kayıt (register), giriş (login), şifre sıfırlama ve JWT tabanlı yetkilendirme (authorization) işlemlerini yönetmek için hazır bir backend şablonu sunar.
